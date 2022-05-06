@@ -3,6 +3,6 @@
     src: url('https://bruntwood.co.uk/fonts/synthese/synthese-regular.woff2');
   }
 
-body {
+  #okta-sign-in {
     font-family: synthese;
 }
