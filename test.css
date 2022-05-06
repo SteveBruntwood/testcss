@@ -1,0 +1,8 @@
+@font-face {
+    font-family: synthese;
+    src: url('https://bruntwood.co.uk/fonts/synthese/synthese-regular.woff2');
+  }
+
+body {
+    font-family: sytnthese;
+}
