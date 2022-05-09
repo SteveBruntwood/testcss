@@ -1,6 +1,6 @@
 @font-face {
     font-family: synthese;
-    src: url('https://bruntwood.co.uk/fonts/synthese/synthese-regular.woff2');
+    src: url('./synthese-regular.woff2');
   }
 
   #okta-sign-in {
