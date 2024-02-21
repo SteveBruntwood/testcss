@@ -6,3 +6,7 @@
   #okta-sign-in {
     font-family: synthese!important;
 }
+
+.authenticator-list > list-content {
+    display: none;
+}
